@@ -2,5 +2,5 @@
 
 = How to code in your local machine
 
-- Create and setup your Git and GitHub account
--
+- Create and setup your Git and GitHub accounts
+
